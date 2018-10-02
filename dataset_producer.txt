@@ -1,0 +1,12 @@
+ItemTopic-{"item_id":"101"}-{"user_id":"U101"}
+UserTopic-{"name":"John"}-{"exp":16}
+ItemTopic-{"item_id":"101"}-{"user_id":"U106"}
+UserTopic-{"name":"Mark"}-{"exp":18}
+ItemTopic-{"item_id":"102"}-{"user_id":"U110"}
+UserTopic-{"name":"Cylin"}-{"exp":15}
+ItemTopic-{"item_id":"102"}-{"user_id":"U101"}
+UserTopic-{"name":"Prod"}-{"exp":14}
+ItemTopic-{"item_id":"104"}-{"user_id":"U102"}
+UserTopic-{"name":"Abhay"}-{"exp":17}
+ItemTopic-{"item_id":"107"}-{"user_id":"U104"}
+UserTopic-{"name":"Misano"}-{"exp":19}
