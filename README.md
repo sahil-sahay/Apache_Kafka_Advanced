@@ -1,0 +1,2 @@
+# Apache_Kafka_Advanced
+Apache Kafka advanced concepts to read from a file based on delimiters.  Reading Kafka topic Key, value from a file based upon certain delimiters.  Demo of reading line by line from file &amp; insert respective key-val pair to the broker in fire &amp; forget mode. Demo of interaction with the broker based on some acknowledgement received from broker.  Specifying 3 read re-tries by application before throwing an exception. 
